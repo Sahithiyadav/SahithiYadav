@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on python programming tasks
+- 🌱 I’m currently learning python
+- 🤔 I’m looking for help with python
+- 📫 How to reach me: sahithinadikuda@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: loves photography and night walk
 
 <!--
 **Sahithiyadav/SahithiYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
